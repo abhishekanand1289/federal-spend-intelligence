@@ -82,7 +82,7 @@ federal-spend-intelligence/
 | └── all_queries.sql     # All queries 
 ├── python/
 │ ├── raw_to_clean.ipynb      # Chunked extraction, column filtering, cleaning
-│ └── load_to_mysql.ipynb     # Normalization, ETL, batch loading to MySQL
+│ └── load_to_MySQL.ipynb     # Normalization, ETL, batch loading to MySQL
 ├── screenshots/ # Dashboard page images
 └── dashboard/
 └── federal_spend_intelligence.pbix # Power BI file
