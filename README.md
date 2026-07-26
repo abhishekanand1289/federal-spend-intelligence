@@ -78,8 +78,8 @@ Power BI — DAX measures, 5-page dashboard
 federal-spend-intelligence/
 ├── README.md
 ├── sql/
-| ├── 01_schema.sql          # MySQL schema
-| └── 02_analysis_queries.sql # All queries 
+| ├── schema.sql          # MySQL schema
+| └── all_queries.sql     # All queries 
 ├── python/
 │ ├── raw_to_clean.ipynb      # Chunked extraction, column filtering, cleaning
 │ └── load_to_mysql.ipynb     # Normalization, ETL, batch loading to MySQL
