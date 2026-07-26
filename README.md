@@ -85,7 +85,7 @@ federal-spend-intelligence/
 │ └── load_to_MySQL.ipynb     # Normalization, ETL, batch loading to MySQL
 ├── screenshots/ # Dashboard page images
 └── dashboard/
-└── federal_spend_intelligence.pbix # Power BI file
+  └── federal_spend_intelligence.pbix # Power BI file
 ```
 
 ---
