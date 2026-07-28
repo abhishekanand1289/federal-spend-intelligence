@@ -68,7 +68,7 @@ Power BI — DAX measures, 5-page dashboard
 - **recipients** — 19,900 unique vendors
 - **locations** — 10,000+ unique performance locations
 
-![Schema](screenshots/federal_contracts_schema.png)
+![Schema](screenshots/FSI_Schema.png)
 
 ---
 
