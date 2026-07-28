@@ -123,5 +123,5 @@ federal-spend-intelligence/
 ---
 
 *Built by Abhishek Anand Battini | Data Analyst*
-*[LinkedIn](www.linkedin.com/in/abhishekanandb)  
-*[Dashboard](https://app.powerbi.com/viewr=eyJrIjoiYTg5MjFmZjgtODEwYi00MzA3LTg4YjQtOTYwMDk1OGQzOTNiIiwidCI6IjAzNWRkZWY2LTI0MzMtNDhiNi04NTI2LTcwY2E4MTgxZjc2ZCIsImMiOjN9)*
+*[LinkedIn]([www.linkedin.com/in/abhishekanandb])  
+*[Dashboard]([https://app.powerbi.com/viewr=eyJrIjoiYTg5MjFmZjgtODEwYi00MzA3LTg4YjQtOTYwMDk1OGQzOTNiIiwidCI6IjAzNWRkZWY2LTI0MzMtNDhiNi04NTI2LTcwY2E4MTgxZjc2ZCIsImMiOjN9])*
